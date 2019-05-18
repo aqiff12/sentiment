@@ -1,0 +1,35 @@
+‘The nature of news is likely to distort people’s view of the world.’ Illustration: Sam Morris
+E  very day the news is filled with stories about war, terrorism, crime, pollution, inequality, drug abuse and oppression. And it’s not just the headlines we’re talking about; it’s the op-eds and long-form stories as well. Magazine covers warn us of coming anarchies, plagues, epidemics, collapses, and so many “crises” (farm, health, retirement, welfare, energy, deficit) that copywriters have had to escalate to the redundant “serious crisis.”
+
+Whether or not the world really is getting worse, the nature of news will interact with the nature of cognition to make us think that it is.
+
+News is about things that happen, not things that don’t happen. We never see a journalist saying to the camera, “I’m reporting live from a country where a war has not broken out”— or a city that has not been bombed, or a school that has not been shot up. As long as bad things have not vanished from the face of the earth, there will always be enough incidents to fill the news, especially when billions of smartphones turn most of the world’s population into crime reporters and war correspondents.
+
+And among the things that do happen, the positive and negative ones unfold on different timelines. The news, far from being a “first draft of history,” is closer to play-by-play sports commentary. It focuses on discrete events, generally those that took place since the last edition (in earlier times, the day before; now, seconds before).
+
+Bad things can happen quickly, but good things aren’t built in a day, and as they unfold, they will be out of sync with the news cycle. The peace researcher John Galtung pointed out that if a newspaper came out once every 50 years, it would not report half a century of celebrity gossip and political scandals. It would report momentous global changes such as the increase in life expectancy.
+
+The nature of news is likely to distort people’s view of the world because of a mental bug that the psychologists Amos Tversky and Daniel Kahneman called the Availability heuristic: people estimate the probability of an event or the frequency of a kind of thing by the ease with which instances come to mind. In many walks of life this is a serviceable rule of thumb. But whenever a memory turns up high in the result list of the mind’s search engine for reasons other than frequency—because it is recent, vivid, gory, distinctive, or upsetting—people will overestimate how likely it is in the world.
+
+Plane crashes always make the news, but car crashes, which kill far more people, almost never do. Not surprisingly, many people have a fear of flying, but almost no one has a fear of driving. People rank tornadoes (which kill about 50 Americans a year) as a more common cause of death than asthma (which kills more than 4,000 Americans a year), presumably because tornadoes make for better television.
+
+ 
+The nature of news is likely to distort people’s view of the world
+
+The data scientist Kalev Leetaru applied a technique called sentiment mining to every article published in the New York Times between 1945 and 2005, and to an archive of translated articles and broadcasts from 130 countries between 1979 and 2010. Sentiment mining assesses the emotional tone of a text by tallying the number and contexts of words with positive and negative connotations, like good, nice, terrible, and horrific.
+
+Putting aside the wiggles and waves that reflect the crises of the day, we see that the impression that the news has become more negative over time is real. The New York Times got steadily more morose from the early 1960s to the early 1970s, lightened up a bit (but just a bit) in the 1980s and 1990s, and then sank into a progressively worse mood in the first decade of the new century. News outlets in the rest of the world, too, became gloomier and gloomier from the late 1970s to the present day.
+
+The consequences of negative news are themselves negative. Far from being better informed, heavy newswatchers can become miscalibrated. They worry more about crime, even when rates are falling, and sometimes they part company with reality altogether: a 2016 poll found that a large majority of Americans follow news about Isis closely, and 77% agreed that “Islamic militants operating in Syria and Iraq pose a serious threat to the existence or survival of the United States,” a belief that is nothing short of delusional.
+
+Consumers of negative news, not surprisingly, become glum: a recent literature review cited “misperception of risk, anxiety, lower mood levels, learned helplessness, contempt and hostility towards others, desensitization, and in some cases, ... complete avoidance of the news.” And they become fatalistic, saying things like “Why should I vote? It’s not gonna help,” or “I could donate money, but there’s just gonna be another kid who’s starving next week.”
+
+Relentless negativity can have other unintended consequences, and recently a few journalists have begun to point them out. In the wake of the 2016 American election, the New York Times writers David Bornstein and Tina Rosenberg reflected on the media’s role in its shocking outcome:
+
+Trump was the beneficiary of a belief— near universal in American journalism—that “serious news” can essentially be defined as “what’s going wrong... For decades, journalism’s steady focus on problems and seemingly incurable pathologies was preparing the soil that allowed Trump’s seeds of discontent and despair to take root. .. One consequence is that many Americans today have difficulty imagining, valuing or even believing in the promise of incremental system change, which leads to a greater appetite for revolutionary, smash-the-machine change.”
+
+Bornstein and Rosenberg don’t blame the usual culprits (cable TV, social media, late-night comedians) but instead trace it to the shift during the Vietnam and Watergate eras from glorifying leaders to checking their power—with an overshoot toward indiscriminate cynicism, in which everything about America’s civic actors invites an aggressive takedown.
+
+It’s easy to see how the Availability heuristic, stoked by the news policy “If it bleeds, it leads,” could induce a sense of gloom about the state of the world. Media scholars who tally news stories of different kinds, or present editors with a menu of possible stories and see which they pick and how they display them, have confirmed that the gatekeepers prefer negative to positive coverage, holding the events constant.
+
+That in turn provides an easy formula for pessimists on the editorial page: make a list of all the worst things that are happening anywhere on the planet that week, and you have an impressive-sounding—but ultimately irrational—case that civilization has never faced greater peril.
